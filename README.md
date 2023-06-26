@@ -34,6 +34,7 @@
     <li><a href="https://git-scm.com/downloads" target="_blank" rel="noopener noreferrer">Git</a></li>
     <li><a href="https://www.php.net/downloads.php" target="_blank" rel="noopener noreferrer">PHP</a></li>
     <li><a href="https://getcomposer.org/download/" target="_blank" rel="noopener noreferrer">Composer</a></li>
+    <li><a href="https://docs.google.com/document/d/10Xvm_m-IcQFSjnP-zyUdUItCayjlEMzU/edit?usp=sharing&ouid=101904115063108684048&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Apache24 Web Server</a></li>
 </ul>
 
 ### Setting Up a Project

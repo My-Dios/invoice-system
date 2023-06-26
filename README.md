@@ -4,7 +4,7 @@
     <img src="https://img.freepik.com/free-icon/report_318-373693.jpg" width="250px"/>
   </div>
   <br>
-  <i>The All-in-One Integerated Restaurant Technology</i>
+  <i>The All-in-One Integerated Invoice System</i>
   <br>
 </div>
 

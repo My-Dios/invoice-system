@@ -91,7 +91,11 @@ php yii serve
 <br>
 Open API's Collection in Postman
 
-<b>3. Testing</b> 
+<b>3. Base URL</b> 
+<br>
+You must setting your base url in variable API's Collection, adjust the url when running `php yii serve`
+
+<b>4. Testing</b> 
 <br>
 You can test the API create transaction but you must adjustment customerID in Get All Customer API and itemID in Get All Item 
 

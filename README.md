@@ -97,7 +97,7 @@ You must setting your base url in variable API's Collection, adjust the url when
 
 <b>4. Testing</b> 
 <br>
-You can test the API create transaction but you must adjustment customerID in Get All Customer API and itemID in Get All Item 
+You can test the API `Create Transaction` but you must adjustment key value customerID in `Get All Customer` API and key value itemID in `Get All Item` API 
 
 
 ## Version

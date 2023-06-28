@@ -7,6 +7,8 @@ use yii\behaviors\TimestampBehavior;
 use yii\db\ActiveRecord;
 use DateTime;
 use DateTimeZone;
+use app\components\ResponsesHelper;
+use yii\web\NotFoundHttpException;
 
 class MsCustomer extends ActiveRecord
 {
